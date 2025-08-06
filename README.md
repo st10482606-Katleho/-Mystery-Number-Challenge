@@ -22,6 +22,10 @@ We designed the app based on our previous console version, then mapped out the U
 Features Random Number Generator – Picks a number from 1 to 100 at the start or restart. User Guess Input – Players enter guesses using a TextInput. Feedback – App shows “Too high,” “Too low,” or “Correct!” after each guess. Guess Counter – Tracks and displays the number of attempts. Restart Button – Resets the game with a new number and guess count.
 
 Screenshot
+![1](https://github.com/user-attachments/assets/c627e3c9-d595-42c1-bc7c-769b68777e8b)
+![2](https://github.com/user-attachments/assets/e3eaec04-4af6-4d8f-865a-53fd8700120c)
+![3](https://github.com/user-attachments/assets/3366b8e8-ffe6-4848-9586-3fbc2de9bb02)
+![4](https://github.com/user-attachments/assets/91e97342-d347-4cb7-977d-d8045291cadf)
+![5](https://github.com/user-attachments/assets/e7d1aa5b-4ce1-4605-8c6d-5ee1eafb4605)
 
-image alt image alt image alt image alt image alt
-Link to Repository:
+Link to Repository:https://github.com/st10482606-Katleho/-Mystery-Number-Challenge/tree/main
